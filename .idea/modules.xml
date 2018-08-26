@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ch01intro/Ch01intro.iml" filepath="$PROJECT_DIR$/Ch01intro/Ch01intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/Ch02.iml" filepath="$PROJECT_DIR$/Ch02/Ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/Ch03.iml" filepath="$PROJECT_DIR$/Ch03/Ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch04/Ch04.iml" filepath="$PROJECT_DIR$/Ch04/Ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch05Arrays/Ch05Arrays.iml" filepath="$PROJECT_DIR$/Ch05Arrays/Ch05Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch06Methods/Ch06Methods.iml" filepath="$PROJECT_DIR$/Ch06Methods/Ch06Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch07Objects/Ch07Objects.iml" filepath="$PROJECT_DIR$/Ch07Objects/Ch07Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch08IO/Ch08IO.iml" filepath="$PROJECT_DIR$/Ch08IO/Ch08IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch10DerivativeClasses/Ch10DerivativeClasses.iml" filepath="$PROJECT_DIR$/Ch10DerivativeClasses/Ch10DerivativeClasses.iml" />
+    </modules>
+  </component>
+</project>
